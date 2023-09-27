@@ -24,7 +24,7 @@ It would be much easier to understand this by using it directly, so these are th
 8. And then you can click on the `Create pull request` button, and follow these steps:
      - for title, set it as "chore: add {your name} as 2023 Academician"
      - for description, describe what you just did in the previous commit you have done before (use your creativity, dont ask your friend what to write, think!)
-     - and then on the reviewers part on the right side of the screen, click on the setting button with the gear icon on it, and put `fakhrip, soedipo, iritasee, adhiiimf, vincentiusantu` as reviewer, just click it and until you see green check besides each name
+     - and then on the reviewers part on the right side of the screen, click on the setting button with the gear icon on it, and put `soedipo, vincentiusantu` as reviewer, just click it and until you see green check besides each name
      - that's it, then click the create pull request button or whatever button that will create the pull request :v
 
 **NOTE: to be able for you to add reviewer there, you need to ask to the mentor to invite yourself into the Daskom-Lab Github Organization first, so please tag any one of us in the prochef academy channel in discord and tell us your github account username.**
