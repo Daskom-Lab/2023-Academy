@@ -18,5 +18,5 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As a mentor  
   > Website link -> https://justak.id/
 - [Junaidi Rahmat](https://github.com/Junaidirah) [JIN]
-  > As an academician <br>
+  > As an academician
   > Website link -> https://junaidirah.github.io/WEB-personal/
