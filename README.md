@@ -24,5 +24,5 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician <br>
 - [Dennytan Raharjo](https://github.com/DenTan77) [TAN]
   > As an academician <br>
-- [Nur Muhammad Faza Dwi Fajar Ramdhani](https://github.com/fxfyfaza) [TAN]
+- [Nur Muhammad Faza Dwi Fajar Ramdhani](https://github.com/fxfyfaza) [FAZ]
   > As an academician <br>
