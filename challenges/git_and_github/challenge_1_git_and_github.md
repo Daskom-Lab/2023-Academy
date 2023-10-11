@@ -12,6 +12,6 @@ Your task is to gather all this flags and then tell everyone about it by sending
 This is considered to be a race challenge, so whoever found itthe first time, he/she is the winner, so find it and send it ASAP
 <br>
 <br>
-BTW There are 5 flags to be found!
+BTW There are 3 flags to be found!
 <br>
 GLHF!!!
