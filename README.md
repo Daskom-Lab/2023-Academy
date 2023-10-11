@@ -20,3 +20,5 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Junaidi Rahmat](https://github.com/Junaidirah) [JIN]
   > As an academician <br>
   > Website link -> https://junaidirah.github.io/WEB-personal/
+- [Dhiya Isnavisa](https://github.com/DiyArc-350) [DHY]
+  > As an academician <br>
