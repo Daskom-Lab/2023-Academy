@@ -26,3 +26,6 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician <br>
 - [Nur Muhammad Faza Dwi Fajar Ramdhani](https://github.com/fxfyfaza) [FAZ]
   > As an academician <br>
+- [Aliza Nurfitrian Meizahra ](https://github.com/Alizaaaja4) [ALL]
+  > As an academician <br>
+  
