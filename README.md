@@ -28,4 +28,6 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician <br>
 - [Aliza Nurfitrian Meizahra ](https://github.com/Alizaaaja4) [ALL]
   > As an academician <br>
+- [Farrine Fadhirra Fasya](https://github.com/Farrine) [RIN]
+  > As an academician <br>
   
