@@ -28,4 +28,5 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician <br>
 - [Aliza Nurfitrian Meizahra ](https://github.com/Alizaaaja4) [ALL]
   > As an academician <br>
-  
+- [Dhea Aisyah Putri ](https://github.com/dheaaisyah) [DEY]
+  > As an academician <br>
