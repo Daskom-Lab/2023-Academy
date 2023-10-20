@@ -30,3 +30,5 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician <br>
 - [Dhea Aisyah Putri ](https://github.com/dheaaisyah) [DEY]
   > As an academician <br>
+- [Muh Zaidan Fauzan](https://github.com/Zaidanfzn) [FYN]
+  > As an academician <br>
