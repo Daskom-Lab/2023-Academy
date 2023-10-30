@@ -39,13 +39,18 @@ See at the basic structure above! we'll talk about the tag:
 
 - `<html>` : This element tells the browser that this *index.html* (for example) is HTML Document.
 - `<head>` : Head element will have some information of the web/html:
-    - `<title>`
-    - `<style>`
-    - `<base>`
-    - `<link>`
-    - `<meta>`
-    - `<script>`
-    - `<noscript>`
+<center>
+
+| Tags | Description |
+| :-----------: | :-----------: |
+|`<title>`| it defines the title of the document|
+|`<style>`| used to define style information for a single document like|
+|`<base>`| specifies the base URL and/or target for all relative URLs in a page|
+|`<link>`| used to link to external style sheets|
+|`<meta>`| used to specify the character set, page description, keywords, author of the document, and viewport settings|
+|`<script>`| used to define client-side JavaScripts|
+|`<noscript>`| defines an alternate content to be displayed to users that have disabled scripts in their browser or have a browser that doesn't support script|
+</center>
   
 - `<body>` : It contains all of the web contents like header, main, footer, and ohter section that developer has.
 
