@@ -13,5 +13,6 @@ But of course, it's not a challenge if it doesn't have *requirements* right ? So
 - To do this challenge, you have to create a repository called `{your_username}.github.io` in your github account first
 - Once you have done this challenge, you have to give your github repository link in the prochef academy discord channel so the mentors can see it and give a score based on what you have done
 - You can follow tutorials to create the personal website, and follow all the code there but please add something that will make it unique to yourself
+- After you've done the challenge, please add your website link to the README.md below your name, just like the mentors
 
 GLHF!!
