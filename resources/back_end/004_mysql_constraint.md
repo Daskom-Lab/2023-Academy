@@ -16,7 +16,7 @@ CREATE TABLE students (
     UNIQUE (student_id)
 );
 ```
-To name a UNIQUE constraint, and to define a UNIQUE constraint on multiple columns, use the following command:
+To name a `UNIQUE` constraint, and to define a `UNIQUE` constraint on multiple columns, use the following command:
 ```sql
 CREATE TABLE students (
     id int,
@@ -27,12 +27,12 @@ CREATE TABLE students (
 );
 ```
 
-If you want add unique constraint when the table is already created, you can use this command:
+If you want add `unique` constraint when the table is already created, you can use this command:
 ```sql
 ALTER TABLE students
 ADD CONSTRAINT UC_students UNIQUE (id,student_id);
 ```
-To drop a UNIQUE constraint, use the following command:
+To drop a `UNIQUE` constraint, use the following command:
 ```sql
 ALTER TABLE students
 DROP INDEX UC_students;

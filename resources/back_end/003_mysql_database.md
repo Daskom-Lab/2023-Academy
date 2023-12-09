@@ -5,7 +5,7 @@ Before you start to doing CRUD, you must create a database first by this command
 ```sql
 CREATE DATABASE databasename;
 ```
-For example, you want to create database named students. You can use this command:
+For example, you want to create database named `schoolDB`. You can use this command:
 ```sql
 CREATE DATABASE schoolDB;
 ```
@@ -26,7 +26,7 @@ Now you have a database, before you want to query the data, you should create a 
 The `CREATE TABLE` statement is used to create a new table in a database.
 <br>
 <br>
-For example, if you want a table contains `id`, `name`, `student_id`, `class`, you can use this command:
+For example, if you want a table named `students` contains `id`, `name`, `student_id`, `class`, you can use this command:
 
 ```sql
 CREATE TABLE students (

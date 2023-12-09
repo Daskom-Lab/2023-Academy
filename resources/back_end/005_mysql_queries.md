@@ -32,7 +32,7 @@ SELECT * FROM students;
 ```
 
 ## WHERE
-The 'WHERE' clause is used to filter the records. It will show the records that fulfill a specified conditions.
+The `WHERE` clause is used to filter the records. It will show the records that fulfill a specified conditions.
 <br>
 For example, you want the student that registered in 04 class to be shown, you can execute the following syntax:
 
@@ -44,7 +44,7 @@ id | name      | student_id | class
 -- | --------- | ---------- | -----
 2  | Svendson  | 1102213061 | 05
 
-You can use the other operators besides `=`, you find them at external resource. Just check it out and you'll find it. Good luck, lads.
+You can use the other operators besides `=`, you find them at external resources. Just check it out and you'll find it. Good luck, lads.
 
 ## UPDATE
 The `UPDATE` statement is used to modify the existing records in a table.
