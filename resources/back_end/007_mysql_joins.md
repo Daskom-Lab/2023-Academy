@@ -34,8 +34,11 @@ Hansen   | 04    | Calculus
 Svendson | 05    | Linear Algebra
 
 ## Supported Types of Joins in MySQL
-There are the other types of joins in MySQL beside inner join:
+There are the other types of joins in MySQL beside inner join, you can find them out in the other tutorials for the detail:
 - `INNER JOIN`: Returns records that have matching values in both tables
 - `LEFT JOIN`: Returns all records from the left table, and the matched records from the right table
 - `RIGHT JOIN`: Returns all records from the right table, and the matched records from the left table
 - `CROSS JOIN`: Returns all records from both tables
+
+This is the visualization to help you to understand about joins:
+![joins](./assets/joins.png)
